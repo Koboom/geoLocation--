@@ -1,0 +1,6 @@
+Adi:    Mehmet Yüksel<br>
+Soyadi: Koyunoglu<br>
+Doğum Tarihi: 11.05.1976<br>
+Doğum Yeri: İzmir/Türkiye<br>
+Okulu: BAP University Köln<br>
+Bölümü: Yönetim Bilişim Sistemleri<br>
